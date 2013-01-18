@@ -23,3 +23,7 @@
 ## Design Patterns
 
 - [antipatterns](http://sourcemaking.com/antipatterns "design-patterns")
+
+## Amazing Things
+
+- [Al Gore - Our Choice](http://pushpoppress.com/ourchoice/ "ipad iphone ipod")
