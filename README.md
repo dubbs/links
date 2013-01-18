@@ -1,13 +1,25 @@
-[antipatterns][]
-[responsinator][]
-[device-sizes][]
-[happycog][]
-[bootstrap-button-generator][]
-[hsl-color-picker][]
+## Payments
 
-[antipatterns]: http://sourcemaking.com/antipatterns "design-patterns"
-[responsinator]: http://www.responsinator.com/ "responsive tool"
-[device-sizes]: http://www.metaltoad.com/sites/default/files/Responsive-Widths_0.png "responsive devices"
-[happycog]: http://happycog.com/ "responsive company"
-[bootstrap-button-generator]: http://charliepark.org/bootstrap_buttons/ "css bootstrap"
-[hsl-color-picker]: http://hslpicker.com/ "css color"
+- [Stripe](https://stripe.com/ "payments development")
+- [Square](https://squareup.com/ "payments iphone android ipad")
+
+## Color
+
+- [HSL Color Picker](http://hslpicker.com/ "css color")
+
+## Design Companies
+
+- [happycog](http://happycog.com/ "responsive company")
+
+## Responsive
+
+- [responsinator](http://www.responsinator.com/ "responsive tool")
+- [device-sizes](http://www.metaltoad.com/sites/default/files/Responsive-Widths_0.png "responsive devices")
+
+## Buttons
+
+- [bootstrap-button-generator](http://charliepark.org/bootstrap_buttons/ "css bootstrap")
+
+## Design Patterns
+
+- [antipatterns](http://sourcemaking.com/antipatterns "design-patterns")
