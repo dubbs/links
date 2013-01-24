@@ -27,3 +27,11 @@
 ## Amazing Things
 
 - [Al Gore - Our Choice](http://pushpoppress.com/ourchoice/ "ipad iphone ipod")
+
+## Layout
+
+- [CSS3 Layout Modules Book](http://www.fivesimplesteps.com/products/css3-layout-modules "css layout")
+
+## HTML
+
+- [The Importance Of HTML5 Sectioning Elements](http://coding.smashingmagazine.com/2013/01/18/the-importance-of-sections/ "html")
