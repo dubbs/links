@@ -37,6 +37,12 @@
 - [AMD and CJS Loaders](http://blog.brianbeck.com/post/10667967423/node-js-require-in-the-browser "js")
 - [Writing Modular JS](http://addyosmani.com/writing-modular-js/ "js")
 
+## Performance
+
+- [Performance as Design](http://bradfrostweb.com/blog/post/performance-as-design/ "css performance")
+- [Frontend Performance](http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/ "css performance")
+- [Make Websites Faster](https://speakerdeck.com/chriscoyier/lets-do-a-bunch-of-simple-stuff-to-make-websites-faster "css performance")
+
 ## Layout
 
 - [CSS3 Layout Modules Book](http://www.fivesimplesteps.com/products/css3-layout-modules "css layout")
